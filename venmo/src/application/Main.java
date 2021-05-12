@@ -18,26 +18,21 @@ import javafx.scene.layout.Pane;
 
 
 public class Main extends Application {
-	
-	
-	
+		
 	public static Stage stage = null;
     @Override
     public void start(Stage stage) throws Exception {
         
     	Parent root = FXMLLoader.load(getClass().getResource("/Ui.fxml"));      
-    	//Server side FXML is ("/UIserver.fxml")
        
-        Scene scene = new Scene(root);
-        stage.initStyle(StageStyle.UNDECORATED);
-        stage.setScene(scene);
-        this.stage = stage;
-        stage.show();   
+    	Scene scene = new Scene(root);
+		stage.resizableProperty().setValue(Boolean.FALSE);
+		stage.setTitle("Venmo User Interface Rev. 10.0   :   Rel Date  :  May 11, 2021     8:00 PM        ");
+		stage.setScene(scene);
+		this.stage = stage;
+		stage.show();
     }
-  
-    
-    
-    
+
     
     
 	public static void main(String[] args) {

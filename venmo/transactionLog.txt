@@ -1,0 +1,91 @@
+04-28-2021 17.38.41 : You paid jjj $3.00
+04-28-2021 17.38.41 : You paid jjj $3.00
+04-28-2021 17.38.42 : You requested  $3.00 from jjj
+04-28-2021 17.38.43 : You paid jjj $3.00
+04-28-2021 21.02.40 : You paid ss $3
+04-28-2021 21.02.49 : You paid ss $3
+04-28-2021 21.02.50 : You requested  $3 from ss
+04-28-2021 21.02.50 : You paid ss $3
+04-28-2021 21.02.50 : You requested  $3 from ss
+04-28-2021 21.02.51 : You paid ss $3
+04-28-2021 21.02.51 : You requested  $3 from ss
+04-28-2021 21.03.10 : You paid ss $3
+04-28-2021 21.03.11 : You requested  $3 from ss
+04-28-2021 21.03.11 : You paid ss $3
+04-28-2021 21.03.11 : You requested  $3 from ss
+04-28-2021 21.03.12 : You paid ss $3
+04-28-2021 21.03.12 : You requested  $3 from ss
+04-28-2021 21.03.13 : You paid ss $3
+04-28-2021 21.03.13 : You requested  $3 from ss
+04-29-2021 14.12.11 : You paid fffrr $3
+04-29-2021 14.12.13 : CLIENT: Transaction>transaction#001,fffrr,vfvf,3
+04-29-2021 14.12.19 : You paid fvf $fvf
+04-29-2021 14.12.20 : CLIENT: Transaction>transaction#001,fvf,fvfvf,fvf
+04-29-2021 14.12.25 : You paid fvfv $3
+04-29-2021 14.12.26 : CLIENT: Transaction>transaction#001,fvfv,vfvf,3
+04-29-2021 23.16.09 : You paid Zalen $3.00
+04-29-2021 23.16.09 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-29-2021 23.16.13 : You requested  $3.00 from Zalen
+04-29-2021 23.16.13 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+04-30-2021 10.58.10 : You paid hj $3.00
+04-30-2021 10.58.12 : CLIENT: Transaction>transaction#001,hj,hhh,3.00
+04-30-2021 10.58.37 : You paid s $3.00
+04-30-2021 10.58.38 : CLIENT: Transaction>transaction#001,s,ss,3.00
+05-09-2021 23.06.56 : You paid bnb $3.00
+05-09-2021 23.06.56 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 17.27.47 : You paid Zal $2.00
+05-11-2021 17.27.48 : CLIENT: Transaction>transaction#001,Zal,money,2.00
+05-11-2021 19.39.31 : You donated $to the Salvation Army 
+05-11-2021 19.39.31 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 19.39.58 : You donated $to the Salvation Army 
+05-11-2021 19.39.59 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.43.01 : You donated $5to the Salvation Army 
+05-11-2021 19.43.01 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 19.43.17 : You donated $5to the Salvation Army 
+05-11-2021 19.43.19 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.48.26 : You donated null to the Salvation Army 
+05-11-2021 19.48.28 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.48.30 : You donated null to the Salvation Army 
+05-11-2021 19.48.31 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.51.03 : You donated null to the Salvation Army 
+05-11-2021 19.51.04 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.51.40 : You donated null to the Salvation Army 
+05-11-2021 19.51.42 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.53.45 : You donated null to the Salvation Army 
+05-11-2021 19.53.46 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.54.23 : You donated $15 to the Salvation Army 
+05-11-2021 19.54.24 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.55.17 : You donated Select an Amount to the Salvation Army 
+05-11-2021 19.55.18 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.58.13 : You donated null to the Salvation Army 
+05-11-2021 19.58.14 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.58.15 : You donated null to the Salvation Army 
+05-11-2021 19.58.16 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.58.16 : You donated null to the Salvation Army 
+05-11-2021 19.58.16 : You donated null to the Salvation Army 
+05-11-2021 19.58.16 : You donated null to the Salvation Army 
+05-11-2021 19.58.17 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.58.18 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 19.58.19 : CLIENT: Transaction>transaction#001,,,
+05-11-2021 20.04.47 : CLIENT: Transaction>transaction#001,Salvation Army recievednull
+05-11-2021 20.04.49 : CLIENT: Transaction>transaction#001,Salvation Army recievednull
+05-11-2021 20.05.15 : You donated $5 to the Salvation Army 
+05-11-2021 20.05.17 : CLIENT: Transaction>transaction#001,Salvation Army recieved$5
+05-11-2021 20.05.19 : You donated $15 to the Salvation Army 
+05-11-2021 20.05.20 : CLIENT: Transaction>transaction#001,Salvation Army recieved$15
+05-11-2021 20.05.24 : You donated $10 to Goodwill
+05-11-2021 20.05.25 : CLIENT: Transaction>transaction#001,Salvation Army recieved$10
+05-11-2021 20.05.27 : You donated null to the African Wildlife Foundation 
+05-11-2021 20.05.28 : CLIENT: Transaction>transaction#001,Salvation Army recievednull
+05-11-2021 20.06.24 : You donated $5 to the Salvation Army 
+05-11-2021 20.06.24 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 20.09.07 : You donated $10 to the Salvation Army 
+05-11-2021 20.09.08 : CLIENT: Transaction>transaction#001,Salvation Army recieved$10
+05-11-2021 20.42.36 : You donated $10 to the Salvation Army 
+05-11-2021 20.42.36 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 20.42.46 : You donated $5 to Goodwill
+05-11-2021 20.42.46 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 20.42.53 : You paid fvf $2.00
+05-11-2021 20.42.53 : CLIENT NETWORK ERROR : Transaction>kiosk#001
+05-11-2021 20.43.10 : You donated $10 to the Salvation Army 
+05-11-2021 20.43.12 : CLIENT: Transaction>transaction#001,Salvation Army recieved$10
