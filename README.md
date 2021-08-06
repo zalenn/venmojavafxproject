@@ -1,6 +1,6 @@
 # Venmo Socket Server w/ Java FX
 
-This project was created using JavaFX in Eclipse as a class project. Worked jointly with Jose Balseros (jbalseros@fordham.edu) and supplementary code including form real time clock from Professor Kounavelis (nkounavelis@fordham.edu). 
+This project was created using JavaFX in Eclipse as a class project. Worked jointly with Jose Balseros (jbalseros@fordham.edu) and supplementary code including the real time clock from Professor Kounavelis (nkounavelis@fordham.edu). 
 
 
 ![Client Screen](https://user-images.githubusercontent.com/51182601/118371849-6d582f00-b57c-11eb-95d3-1b682797c606.png)
